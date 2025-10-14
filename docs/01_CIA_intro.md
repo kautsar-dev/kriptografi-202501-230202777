@@ -56,7 +56,7 @@ Jelaskan tiga pilar keamanan informasi:
 - **Integrity** → menjaga keutuhan data dari modifikasi tidak sah.  
 - **Availability** → menjamin ketersediaan layanan sistem.  
 
-Tambahkan contoh nyata minimal 1 untuk tiap aspek.  
+Tambahkan contoh nyata minimal 1 untuk tiap aspek.   
 
 ### Langkah 3 — Dokumentasi
 - Simpan ringkasan di `laporan.md`.  
