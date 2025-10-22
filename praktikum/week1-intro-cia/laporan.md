@@ -134,5 +134,5 @@ commit
 Author: Rasya Islami Kautsar <rasyakautsar01@gmail.com>
 Date:   2025-10-14
 
-    week1-intro-cia: Sejarah Kriptografi & Prinsip CIA )
+    week1-intro-cia: Sejarah Kriptografi & Prinsip CIA 
 ```

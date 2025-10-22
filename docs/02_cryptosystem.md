@@ -98,7 +98,7 @@ Decrypted : Cryptosystem Test
 ## Pertanyaan Diskusi
 1. Sebutkan komponen utama dalam sebuah kriptosistem.  
 2. Apa kelebihan dan kelemahan sistem simetris dibandingkan asimetris?  
-3. Mengapa distribusi kunci menjadi masalah utama dalam kriptografi simetris?  
+3. Mengapa distribusi kunci menjadi masalah utama dalam kriptografi simetris?
 
 ---
 
