@@ -91,7 +91,7 @@ print("3^x ≡ 4 (mod 7), x =", discrete_log(3, 4, 7))  # hasil: 4
 ## Pertanyaan Diskusi
 1. Apa peran aritmetika modular dalam kriptografi modern?  
 2. Mengapa invers modular penting dalam algoritma kunci publik (misalnya RSA)?  
-3. Apa tantangan utama dalam menyelesaikan logaritma diskrit untuk modulus besar?  
+3. Apa tantangan utama dalam menyelesaikan logaritma diskrit untuk modulus besar?     
 
 ---
 
