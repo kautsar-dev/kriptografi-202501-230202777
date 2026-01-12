@@ -1,14 +1,17 @@
 # Laporan Praktikum Kriptografi
-Minggu ke-: X  
-Topik: [judul praktikum]  
-Nama: [Nama Mahasiswa]  
-NIM: [NIM Mahasiswa]  
-Kelas: [Kelas]  
+Minggu ke-: 11  
+Topik: [Secret Sharing]  
+Nama: [Rasya Islami Kautsar]  
+NIM: [230202777]  
+Kelas: [5IKRB]  
 
 ---
 
 ## 1. Tujuan
-(Tuliskan tujuan pembelajaran praktikum sesuai modul.)
+
+1. Menjelaskan konsep **Shamir Secret Sharing** (SSS).  
+2. Melakukan simulasi pembagian rahasia ke beberapa pihak menggunakan skema SSS.  
+3. Menganalisis keamanan skema distribusi rahasia.
 
 ---
 
@@ -19,10 +22,12 @@ Contoh: definisi cipher klasik, konsep modular aritmetika, dll.  )
 ---
 
 ## 3. Alat dan Bahan
-(- Python 3.x  
-- Visual Studio Code / editor lain  
-- Git dan akun GitHub  
-- Library tambahan (misalnya pycryptodome, jika diperlukan)  )
+
+- Python 3.x
+- Visual Studio Code
+- Git dan akun GitHub
+- Google chrome
+- Library tambahan (misalnya pycryptodome, jika diperlukan)
 
 ---
 
@@ -64,10 +69,11 @@ Hasil eksekusi program Caesar Cipher:
 ---
 
 ## 7. Jawaban Pertanyaan
-(Jawab pertanyaan diskusi yang diberikan pada modul.  
-- Pertanyaan 1: …  
-- Pertanyaan 2: …  
-)
+
+1. Apa keuntungan utama Shamir Secret Sharing dibanding membagikan salinan kunci secara langsung?  
+2. Apa peran **threshold (k)** dalam keamanan secret sharing?  
+3. Berikan satu contoh skenario nyata di mana SSS sangat bermanfaat.
+
 ---
 
 ## 8. Kesimpulan
@@ -84,12 +90,11 @@ Contoh:
 ---
 
 ## 10. Commit Log
-(Tuliskan bukti commit Git yang relevan.  
-Contoh:
-```
-commit abc12345
-Author: Nama Mahasiswa <email>
-Date:   2025-09-20
 
-    week2-cryptosystem: implementasi Caesar Cipher dan laporan )
+```
+commit week11-secret-sharing
+Author: Rasya Islami Kautsar <rasyakautsar01@gmail.com>
+Date:   2026-bulan-tanggal
+
+    week11-secret-sharing: Secret Sharing (Shamir’s Secret Sharing)                    
 ```
